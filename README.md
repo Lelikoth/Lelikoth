@@ -98,5 +98,6 @@ The project covers:
 
 ## Contact
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Wojciech%20Matuszewski-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/wojciech-matuszewski-82094a240/)
 [![GitHub](https://img.shields.io/badge/GitHub-Lelikoth-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Lelikoth)
+
+📧 **Email:** wmatu227@gmail.com
